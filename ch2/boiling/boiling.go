@@ -1,7 +1,9 @@
 // Boiling exibe o ponto de ebulição da água
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 const boilingF = 212.0
 
